@@ -7,6 +7,8 @@ For example, the knowledge gained while learning to recognize cars could apply w
 
 __VGG16__ is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. The model achieves 92.7% top-5 test accuracy in ImageNet, which is a dataset of over 14 million images belonging to 1000 classes. It was one of the famous model submitted to ILSVRC-2014. It makes the improvement over AlexNet by replacing large kernel-sized filters (11 and 5 in the first and second convolutional layer, respectively) with multiple 3×3 kernel-sized filters one after another. 
 
+<img src="/imgs/vgg16.png" width="500" alt="Face Thumb">
+
 ### __Project:__  
 
 1. Collect the dataset of face samples of different faces in train and test folders with a different folder for each face  
